@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      brooke.wyburn
-#
-# Created:     07/05/2021
-# Copyright:   (c) brooke.wyburn 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#Dice Game By Brooke Wyburn
 import random, time
 
 computer_score = 0
