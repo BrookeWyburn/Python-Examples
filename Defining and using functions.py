@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      brooke.wyburn
-#
-# Created:     07/05/2021
-# Copyright:   (c) brooke.wyburn 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#Defining and using functions by Brooke Wyburn
 def hotelcost(nights):
    global cost1
    daycost = 140
@@ -40,11 +31,6 @@ def carcost(dayshired):
      cost3=cost3-20
     else:
      return
-
-
-
-
-
 
 no_nights = int(input("How many nights did you stay"))
 destination = str(input("Where did you travel to? :"))
