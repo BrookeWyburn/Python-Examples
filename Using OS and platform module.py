@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      brook
-#
-# Created:     25/04/2021
-# Copyright:   (c) brook 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#Using OS and platform module By Brooke Wyburn
 
 import os , platform
 
