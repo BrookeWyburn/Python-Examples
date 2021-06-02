@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      brooke.wyburn
-#
-# Created:     07/05/2021
-# Copyright:   (c) brooke.wyburn 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#Interger, float or string by Brooke Wyburn
 
 def numberstring(number):
 
